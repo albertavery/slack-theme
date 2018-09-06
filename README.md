@@ -3,7 +3,7 @@
 
 #add this stuff
 to the end of "index.js" and "ssb-interop.js" at this location:
-C:\Users\YOUR_USERNAME\AppData\Local\slack\app-3.31resources\app.asar.unpacked\src\static
+C:\Users\YOUR_USERNAME\AppData\Local\slack\app-3.3.1resources\app.asar.unpacked\src\static
 
 ```
 // First make sure the wrapper app is loaded
